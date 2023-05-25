@@ -1,0 +1,16 @@
+Informations globales;;;;;;;;;;;
+Nom du LAB;Test;;;;;;;;;;
+Nombre de LAB:;2;;;;;;;;;;
+Incrément VMID;10;;;;;;;;;;
+;;;;;;;;;;;
+Constitution du LAB;;;;;;;;;;;
+;;;;;;;;;;;
+Description VM;;;;Nic O;;;;Description matériel;;;
+VMID;VMID Source;Tyoe;Nom VM;VMBR;IP;MSR;GW;Mémoire;socket;Cœurs;Taille HDD
+140;9999;debian;test1;0;192.168.50;24;192.168.50.1;1024;1;1;4
+141;9999;debian;test2;0;192.168.50;24;192.168.50.1;2048;1;1;4
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
